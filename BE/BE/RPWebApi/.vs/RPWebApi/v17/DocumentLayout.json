@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\services\\foodorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:services\\foodorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\services\\foodorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:services\\foodorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\models\\foodorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:models\\foodorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\business\\foodorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:business\\foodorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\models\\foodorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:models\\foodorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\controllers\\foodorderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:controllers\\foodorderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\dto\\foodorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:dto\\foodorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\controllers\\foodordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:controllers\\foodordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|c:\\users\\danie\\desktop\\project\\be\\be\\rpwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0718476-325A-4C0A-963B-2832441B1D82}|RPWebApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Services\\BaseService.cs",
+              "RelativeToolTip": "Services\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "categoryService.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Services\\categoryService.cs",
+              "RelativeDocumentMoniker": "Services\\categoryService.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Services\\categoryService.cs",
+              "RelativeToolTip": "Services\\categoryService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Services\\FoodOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\FoodOrderService.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Services\\FoodOrderService.cs",
+              "RelativeToolTip": "Services\\FoodOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodOrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Services\\FoodOrderItemService.cs",
+              "RelativeDocumentMoniker": "Services\\FoodOrderItemService.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Services\\FoodOrderItemService.cs",
+              "RelativeToolTip": "Services\\FoodOrderItemService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwFUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodController.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Controllers\\FoodController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "foodService.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Services\\foodService.cs",
+              "RelativeDocumentMoniker": "Services\\foodService.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Services\\foodService.cs",
+              "RelativeToolTip": "Services\\foodService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAawBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoodOrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Models\\FoodOrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\FoodOrderItem.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Models\\FoodOrderItem.cs",
+              "RelativeToolTip": "Models\\FoodOrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Models\\Food.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Models\\Food.cs",
+              "RelativeToolTip": "Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FoodOrderItemController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Controllers\\FoodOrderItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodOrderItemController.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Controllers\\FoodOrderItemController.cs",
+              "RelativeToolTip": "Controllers\\FoodOrderItemController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAArwBsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T22:07:39.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Dto\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "Dto\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Dto\\CategoryDTO.cs",
+              "RelativeToolTip": "Dto\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodOrder.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Business\\FoodOrder.cs",
+              "RelativeDocumentMoniker": "Business\\FoodOrder.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Business\\FoodOrder.cs",
+              "RelativeToolTip": "Business\\FoodOrder.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FoodOrder.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Models\\FoodOrder.cs",
+              "RelativeDocumentMoniker": "Models\\FoodOrder.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Models\\FoodOrder.cs",
+              "RelativeToolTip": "Models\\FoodOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FoodOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Dto\\FoodOrderDTO.cs",
+              "RelativeDocumentMoniker": "Dto\\FoodOrderDTO.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Dto\\FoodOrderDTO.cs",
+              "RelativeToolTip": "Dto\\FoodOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FoodOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Controllers\\FoodOrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodOrderController.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Controllers\\FoodOrderController.cs",
+              "RelativeToolTip": "Controllers\\FoodOrderController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADgvwwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T22:07:39.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\project\\BE\\BE\\RPWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T22:07:39.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
