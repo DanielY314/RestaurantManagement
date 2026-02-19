@@ -1,0 +1,14 @@
+# .NET
+BE/BE/RPWebApi/bin/
+BE/BE/RPWebApi/obj/
+BE/BE/RPWebApi/appsettings.json
+BE/BE/RPWebApi/.vs/
+
+# React
+FE/node_modules/
+FE/build/
+FE/.env
+
+# OS
+.DS_Store
+Thumbs.db
