@@ -1,8 +1,8 @@
 # .NET
-BE/BE/RPWebApi/bin/
-BE/BE/RPWebApi/obj/
-BE/BE/RPWebApi/appsettings.json
-BE/BE/RPWebApi/.vs/
+BE/RPWebApi/bin/
+BE/RPWebApi/obj/
+BE/RPWebApi/appsettings.json
+BE/RPWebApi/.vs/
 
 # React
 FE/node_modules/
