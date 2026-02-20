@@ -15,6 +15,19 @@ namespace RPWebApi.Controllers
             _foodOrderService = foodOrderService;
         }
 
+        [HttpGet]
+        public IActionResult GetFoodOrders()
+        {
+            return Ok(_foodOrderService.GetFoodOrders());
+        }
+
+        [HttpGet("{id}")]
+        public IActionResult GetFoodOrder(int id)
+        {
+            var result = _foodOrderService.GetFoodOrder(id);
+            if (result == null) return NotFound();
+            return Ok(result);
+        }
         [HttpPost]
         public IActionResult AddFoodOrder(FoodOrder fo)
         {
