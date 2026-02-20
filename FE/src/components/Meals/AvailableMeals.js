@@ -8,7 +8,7 @@ const AvailableMeals = () => {
   const [meals, setMeals] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   const [category, setCategory] = useState([]);
-  const [isLoadingCategory, setIsLoadingCategory] = useState(true);
+  const [, setIsLoadingCategory] = useState(true);
   const [httpError, setHttpError] = useState();
   const [selectedCategory, setSelectedCategory] = useState(0);
 
